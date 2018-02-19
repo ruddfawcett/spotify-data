@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak,spotify_id
+1,Shape Of You,Ed Sheeran,1,1,5,7qiZfU4dY1lWllzX7mPBI3
+2,Bad And Boujee,Migos Featuring Lil Uzi Vert,2,1,13,4Km5HrUvYTaSUfiSGPJeQR
+3,I Don't Wanna Live Forever (Fifty Shades Darker),Zayn / Taylor Swift,3,3,9,2y5aJvzXhHPA94U5GFAcXe
+4,Million Reasons,Lady Gaga,-1,4,12,7dZ1Odmx9jWIweQSatnRqo
+5,Bad Things,Machine Gun Kelly x Camila Cabello,4,4,15,1KzGj3xvi9IiY05kBlkm2G
+6,Bounce Back,Big Sean,15,6,14,0SGkqnVQo9KPytSri1H6cF
+7,Closer,The Chainsmokers Featuring Halsey,5,1,28,7BKLCZ1jbUBVqRi2FVlTVw
+8,Scars To Your Beautiful,Alessia Cara,10,8,24,0prNGof3XqfTvNDxHonvdK
+9,Don't Wanna Know,Maroon 5 Featuring Kendrick Lamar,6,6,18,3PGdPUMdUg7a3Tgr5gkfKK
+10,Paris,The Chainsmokers,11,7,4,15vzANxN8G9wWfwAJLLMCg
+11,Fake Love,Drake,8,8,16,343YBumqHu19cGoGARUTsd
+12,Starboy,The Weeknd Featuring Daft Punk,7,1,21,7MXVkk9YMctZqd1Srtv4MB
+13,Love On The Brain,Rihanna,14,13,17,2aksifNn5ph8igDOkPBA02
+14,Black Beatles,Rae Sremmurd Featuring Gucci Mane,9,1,22,6fujklziTHa8uoM5OQSfIo
+15,24K Magic,Bruno Mars,12,4,18,6b8Be6ljOzmkOmFslEb23P
+16,I Feel It Coming,The Weeknd Featuring Daft Punk,16,16,12,3dhjNA0jGA8vHBQ1VdD6vV
+17,Caroline,Amine,17,11,23,5hTpBe8h35rJ67eAWHQsJx
+18,Side To Side,Ariana Grande Featuring Nicki Minaj,13,4,24,1pKeFVVUOPjFsOABub0OaV
+19,Mercy,Shawn Mendes,21,17,21,0AS63m1wHv9n4VVRizK6Hc
+20,Let Me Love You,DJ Snake Featuring Justin Bieber,18,4,27,0lYBSQXN6rCTvUZvg9S0lU
+21,Body Like A Back Road,Sam Hunt,38,21,2,7mldq42yDuxiUNn08nvzHO
+22,No Favors, Big Sean Featuring Eminem,-1,22,1,1MksGqIztTT6M9R1ErKVs8
+23,Rockabye,Clean Bandit Featuring Sean Paul & Anne-Marie,24,23,10,5knuzwU65gJK7IF5yJsuaW
+24,All Time Low,Jon Bellion,20,16,18,0SuLAslEMFZAXf0SwY7syi
+25,Can't Stop The Feeling!,Justin Timberlake,22,1,40,1WkMMavIMc4JZ8cfMmxHkI
+26,T-Shirt,Migos,19,19,4,7KOlJ92bu51cltsD9KU5I7
+27,Say You Won't Let Go,James Arthur,29,27,16,5uCax9HTNlzGybIStD3vDh
+28,iSpy,KYLE Featuring Lil Yachty,27,27,7,2EEeOnHehOozLq4aS0n6SL
+29,Heathens,twenty one pilots,23,2,34,6i0V12jOa3mr6uu4WYhUBr
+30,Water Under The Bridge,Adele,28,26,14,4vb4mFvYsr2h6enhjJsq9Y
+31,Down,Marian Hill,37,31,4,5eCkuGPZNl4mISFNPgr3Dd
+32,Cheap Thrills,Sia Featuring Sean Paul,30,1,52,3S4px9f4lceWdKf0gWciFu
+33,This Town,Niall Horan,25,20,20,5dTJMpqiELczVuHJP3OAEu
+34,Starving,Hailee Steinfeld & Grey Featuring Zedd,26,12,28,4Ce37cRWvM1vIGGynKcs22
+35,Broccoli,D.R.A.M. Featuring Lil Yachty,31,5,35,0qy5D3OJre7SPJNMOL9I71
+36,Treat You Better,Shawn Mendes,32,6,36,3QGsuHI8jO1Rx4JWLUh9jd
+37,That's What I Like,Bruno Mars,57,37,4,0KKkJNfGyhkQ5aFogxQAPU
+38,Moves,Big Sean,74,38,7,0Fv5N0cHBsl4bzCbollCAS
+39,Congratulations,Post Malone Featuring Quavo,39,39,7,3a1lNhkSLSkpJE4MSHpDu9
+40,Better Man,Little Big Town,34,34,15,0jMikeoKkkSOby4ofddqYs
+41,Issues,Julia Michaels,64,41,3,7vu0JkJh0ldukEYbTVcqd0
+42,Juju On That Beat (TZ Anthem),Zay Hilfigerrr & Zayion McCall,33,5,20,1lItf5ZXJc1by9SbPeljFd
+43,Believer,Imagine Dragons,-1,43,1,1NtIMM4N0cFa1dNzN15chl
+44,Don't Let Me Down,The Chainsmokers Featuring Daya,36,3,52,1i1fxkWeaMmKEB4T7zqbzK
+45,Love Me Now,John Legend,35,23,16,6hdkw1wzhIRYPlYDUtCY5m
+46,Dirt On My Boots,Jon Pardi,43,43,10,7f08qp3HROTkfrtNpiYGGo
+47,Make Me (Cry),Noah Cyrus Featuring Labrinth,46,46,9,2BrzlUj1u1CtvaJDGIKpsP
+48,Party,Chris Brown Featuring Usher & Gucci Mane,44,40,8,05Z7jet4VDNVgNQWcYHnrk
+49,The Greatest,Sia Featuring Kendrick Lamar,40,18,23,7xHWNBFm6ObGEQPaUxHuKO
+50,Bad Romance,Lady Gaga,-1,2,35,5P5cGNzqh6A353N3ShDK6Y
+51,Deja Vu,J. Cole,47,7,9,6I6NX6tjGsxFAsIfGzY9lJ
+52,Location,Khalid,60,52,5,152lZdxL1OR0ZMW6KquMif
+53,Both,Gucci Mane Featuring Drake,51,41,8,5tFep7dXGd7vEJ668wTPux
+54,HandClap,Fitz And The Tantrums,53,53,20,4qRaZYiaOsSvWC7VgcxrI0
+55,Seein' Red,Dustin Lynch,56,55,7,7pxhKtuTwofDIdgHx2DcVK
+56,I Got You,Bebe Rexha,59,53,6,6DOBk1Pxe7q8YFI9Ozbrb3
+57,Used To This,Future Featuring Drake,54,14,14,3V8sM5OOG6YfDuDLa2IIYJ
+58,Star Of The Show,Thomas Rhett,45,45,15,63OQWdXMq0Pe6pRpWY5gO0
+59,Play That Song,Train,41,41,11,77hjM9bMmgfTGJXv14UFmi
+60,Party Monster,The Weeknd,55,16,12,4F7A0DXBrmUAkp32uenhZt
+61,Despacito,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,61,61,4,6rPO02ozF3bM7NnOV4h6s2
+62,Castle On The Hill,Ed Sheeran,50,6,5,6PCUP3dWmTjcTtXY02oFdT
+63,Think A Little Less,Michael Ray,68,62,7,4JjIIBNoho0V2gZjH4nEzR
+64,A Guy With A Girl,Blake Shelton,52,42,13,5sjIhQzNljMVrDklI91ezp
+65,Goosebumps,Travis Scott,67,51,14,6gBFPUFcJLzWGx4lenP6h2
+66,Sober Saturday Night,Chris Young Featuring Vince Gill ,70,63,6,081t95JRuDUrQYSS3h8iKk
+67,Chantaje,Shakira Featuring Maluma,65,51,13,6mICuAdrwEjh6Y6lroV2Kg
+68,My Old Man,Zac Brown Band,-1,68,1,6OzujJBXwYPxJ7KeqflLtr
+69,Guys My Age,Hey Violet,87,69,3,0Xm8tw6qikotb8FAOZ2ks7
+70,Sacrifices,Big Sean Featuring Migos,-1,70,1,1r0faljjM2b876iNoaDUh5
+71,Way Down We Go,Kaleo,63,54,7,0y1QJc3SJVPKJ1OvFmFqe6
+72,Call On Me,Starley,82,72,6,2L6orAlH8tBhiFTumIfMyF
+73,Slippery,Migos Featuring Gucci Mane,48,48,2,6p8NuHm8uCGnn2Dtbtf7zE
+74,Halfway Off The Balcony,Big Sean,-1,74,1,4atJ40xfasjdM9ZF3p07BV
+75,Today,Brad Paisley,81,70,6,1IO13V09b01gLSbmZJZ9dM
+76,Jump Out The Window,Big Sean,-1,76,1,1jQsKN68yE94tMYml0wHMd
+77,Swang,Rae Sremmurd,76,61,8,6mapJIPnQ23RTAevUoE0DL
+78,Kill A Word,Eric Church Featuring Rhiannon Giddens,79,71,9,0ipcmHor30Y8p6hCd8QUVq
+79,The Weekend,Brantley Gilbert,69,69,6,48tAdjG4ng2JfECa7OQujk
+80,Fast,Luke Bryan,86,80,3,2gYiCTytrSRtuaHP1Nac6u
+81,No Heart,21 Savage & Metro Boomin,73,43,16,4gmmRb6bZJffOOiww1JGTO
+82,Not Nice,PARTYNEXTDOOR,83,82,4,4STaHtfguDMkWbPEo6Fwcx
+83,How Far I'll Go,Alessia Cara,77,56,10,5EbX5xL3O2xT8FxCpYzgUO
+84,Any Ol' Barstool,Jason Aldean,95,84,3,4T5Z4mbTe7kuGqgLpaRtTh
+85,Selfish,PnB Rock,78,51,14,2xbI8Vmyv3TkpTdywpPyNw
+86,Owe Me,Big Sean,-1,86,1,1u0MOgWF1bbylVxpJG2ZjB
+87,Beauty And The Beast,Ariana Grande & John Legend,-1,87,1,5mRNFh0zp9qY1kDpecN9ot
+88,Wanna Be That Song,Brett Eldredge,85,46,19,
+89,I Don't,Mariah Carey Featuring YG,-1,89,1,2Yia0Gh4n61fPAjrNE5i2t
+90,Road Less Traveled,Lauren Alaina,80,80,3,4nxgA1nvXvTkmsBY0vJV57
+91,80s Mercedes,Maren Morris,89,74,13,58spuRyMUsjKHQHEGwLC99
+92,How Far I'll Go,Auli'i Cravalho,75,41,11,6mb6lVLNrcUgLnEN8QnDJd
+93,Now & Later,Sage The Gemini,-1,93,1,08WPvDEsHvTFuB9w8tC2OS
+94,In Case You Didn't Know,Brett Young,-1,94,1,10M2Ex445zw585Ducldzkw
+95,Look At Me!,XXXTentacion,-1,95,1,7floNISpH8VF4z4459Qo18
+96,OTW,DJ Luke Nasty,92,71,8,5qi7piHIt9zwTYYBnIvfNZ
+97,Light,Big Sean Featuring Jeremih,-1,97,1,0URaKGzNTtzKRtsJN1RkA9
+98,Redbone,Childish Gambino,94,48,11,3kxfsdsCpFgN412fpnW85Y
+99,Some Kind Of Drug,G-Eazy Featuring Marc E. Bassy,100,99,2,1Bqxj0aH5KewYHKUg1IdrF
+100,Kelly Price,Migos Featuring Travis Scott,58,58,2,204U3zjm9kkzX25Pr4Rdld

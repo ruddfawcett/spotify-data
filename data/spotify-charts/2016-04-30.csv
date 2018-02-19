@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak,spotify_id
+1,Work,Rihanna Featuring Drake,1,1,12,32lmL4vQAAotg6MrJnhlQZ
+2,Panda,Desiigner,5,2,8,275a9yzwGB6ncAW4SxY7q3
+3,7 Years,Lukas Graham,2,2,13,5kqIPrATaCc2LqxVWzQGbk
+4,No,Meghan Trainor,3,3,6,0l0CvurVUrr2w3Jj1hOVFc
+5,Pillowtalk,Zayn,4,1,11,0PDUDa38GO8lMxLCRc4lL1
+6,I Took A Pill In Ibiza,Mike Posner,8,6,13,1MtUq6Wp1eQ8PC6BbPCj8P
+7,Work From Home,Fifth Harmony Featuring Ty Dolla $ign,9,7,7,4tCtwWceOPWzenK2HAIJSb
+8,Love Yourself,Justin Bieber,6,1,22,50kpGaPAhYJ3sGmk6vplg0
+9,Cake By The Ocean,DNCE,12,9,26,76hfruVvmfQbw0eYn1nmeC
+10,"Me, Myself & I",G-Eazy x Bebe Rexha,10,7,24,40YcuQysJ0KlGQTeGUosTC
+11,Stressed Out,twenty one pilots,11,2,30,3CRDbSIZ4r5MsZ0YwxuEkn
+12,My House,Flo Rida,7,4,23,6Knv6wdA0luoMUuuoYi2i1
+13,One Dance,Drake Featuring WizKid & Kyla,21,13,2,1zi7xx7UVEFkmKfv06H8x0
+14,Dangerous Woman,Ariana Grande,13,10,5,7l94dyN2hX9c6wWcZQuOGJ
+15,Never Forget You,Zara Larsson & MNEK,15,15,9,6hmhG1b4LEyNuashVvuIAo
+16,Sorry,Justin Bieber,14,1,25,09CtPGIpYB4BrO8qb1RGsF
+17,Don't Let Me Down,The Chainsmokers Featuring Daya,22,17,9,1i1fxkWeaMmKEB4T7zqbzK
+18,2 Phones,Kevin Gates,17,17,15,0wdKiSBUT7aZkXUIdJWcwC
+19,Pop Style,Drake Featuring The Throne,16,16,2,5mPSyjLatqB00IkPqRlbTE
+20,Oui,Jeremih,19,19,15,0PJIbOdMs3bd5AT8liULMQ
+21,Low Life,Future Featuring The Weeknd,29,21,10,7EiZI6JVHllARrX9PUvAdX
+22,Middle,DJ Snake Featuring Bipolar Sunshine,24,20,13,0g5EKLgdKvNlln7TNqBByK
+23,One Call Away,Charlie Puth,20,12,20,7soJgKhQTO8hLP2JPRkL5O
+24,Hands To Myself,Selena Gomez,18,7,19,1LoriJC05IrHIDwj3q0KC1
+25,Jumpman,Drake & Future,23,12,30,27GmP9AWRs744SzKcpJsTZ
+26,Stitches,Shawn Mendes,27,4,47,5jsw9uXEGuKyJzs0boZ1bT
+27,Hello,Adele,25,1,25,4sPmO7WMQUAf45kwMOtONw
+28,Roses,The Chainsmokers Featuring Rozes,26,6,26,3vv9phIu6Y1vX3jcqaGz5Z
+29,Close,Nick Jonas Featuring Tove Lo,33,27,3,3lSDIJ2abCrOdDJ6pshUap
+30,Don't,Bryson Tiller,28,13,29,3pXF1nA74528Edde4of9CC
+31,Exchange,Bryson Tiller,31,26,25,43PuMrRfbyyuz4QpZ3oAwN
+32,Down In The DM,Yo Gotti Featuring Nicki Minaj,32,13,20,1LxKKYsJNPeBdOwdudsJzv
+33,Needed Me,Rihanna,47,33,11,1Tt4sE4pXi57mTD1GCzsqm
+34,Let It Go,James Bay,38,30,17,13HVjjWUZFaWilh2QUJKsP
+35,Somewhere On A Beach,Dierks Bentley,39,35,11,5CG9Ps5ynNjpKJHmwc95pa
+36,Humble And Kind,Tim McGraw,30,30,10,3Rkk851fZjIsglV2jbBPDd
+37,Back To Sleep,Chris Brown,44,20,18,6dlpABcXrQKRU9G00i6Zba
+38,You Should Be Here,Cole Swindell,35,31,18,63thx7OANplv4I4BQsanHk
+39,The Hills,The Weeknd,42,1,47,7fBv7CLKzipRk6EC6TWHOB
+40,Think Of You,Chris Young Duet With Cassadee Pope,41,40,9,6W9W8dSswA8KNegvl3W97V
+41,Lost Boy,Ruth B,51,41,8,4h0zU3O9R5xzuTmNO7dNDU
+42,The Sound Of Silence,Disturbed,49,42,8,1Cj2vqUwlJVG27gJrun92y
+43,Youth,Troye Sivan,46,23,11,1cOyWWUr3oXJIxY0AjJEx9
+44,Cut It,O.T. Genasis Featuring Young Dolph,56,44,8,376KnY4TrgBITxjlnbnmIy
+45,Die A Happy Man,Thomas Rhett,36,21,30,5kNe7PE09d6Kvw5pAsx23n
+46,New Romantics,Taylor Swift,62,46,7,6rZVy6FIG7lSJQMFXHo12z
+47,Cheap Thrills,Sia Featuring Sean Paul,55,39,9,3S4px9f4lceWdKf0gWciFu
+48,Came Here To Forget,Blake Shelton,40,40,6,1N7qGCKRRnvjoy8MGyHgpS
+49,Famous,Kanye West,34,34,2,19a3JfW8BQwqHWUMbcqSx8
+50,Snapback,Old Dominion,52,50,12,7I5fYc4qKJddht8Ozhqqdx
+51,Summer Sixteen, Drake,45,6,11,17Q87zeXgsAi9iQQbMu9v0
+52,I Like The Sound Of That,Rascal Flatts,59,52,12,5S5rw0WLVCAux5B5bWCehK
+53,Company,Justin Bieber,57,53,10,61uyGDPJ06MkxJtHgPmuyO
+54,Father Stretch My Hands Pt. 1,Kanye West,37,37,2,4KW1lqgSr8TKrvBII0Brf8
+55,Confession,Florida Georgia Line,53,53,16,6IFPfV8PNSYOmufzQ95hmm
+56,Wild Things,Alessia Cara,60,56,8,2ZyuwVvV6Z3XJaXIFbspeE
+57,Promise,Kid Ink Featuring Fetty Wap,64,57,9,5IZc3KIVFhjzJ0L2kiXzUl
+58,My Church,Maren Morris,58,50,12,1LM5zQv5pBKPyO7rm7Uz6U
+59,Team,Iggy Azalea,65,42,4,2bocAPQcUTLUXx8lAOTiK3
+60,"Huntin', Fishin' & Lovin' Every Day",Luke Bryan,66,60,3,0dbzWSYpMcRtwjI1S7Pkql
+61,T-Shirt,Thomas Rhett,63,61,7,1zWZvrk13cL8Sl3VLeG57F
+62,Really Really,Kevin Gates,61,54,17,10I3CmmwT0BkOVhduDy53o
+63,Piece By Piece,Kelly Clarkson,72,8,7,2NELtMgQ8HSdrGrYQPLnC3
+64,That Don't Sound Like You,Lee Brice,69,64,9,2l1fWY1albInvAG9t8WP2p
+65,Drunk On Your Love,Brett Eldredge,48,35,14,1jNNHFZmRGXZFHlil5uhei
+66,Ophelia,The Lumineers,-1,66,2,3d8y0t70g7hw2FOWl9Z4Fm
+67,Mind Reader,Dustin Lynch,79,67,8,2MNapHbu7QASoukvVVIxyr
+68,Might Not,Belly Featuring The Weeknd,73,68,8,5e9aFSdnkQUrm5y8Dhw0qN
+69,All The Way Up,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",81,69,3,61QSuw5VlC0LTS8WMO356g
+70,Messin' Around,Pitbull Featuring Enrique Iglesias,-1,70,1,2moTY9zKAZkRsODU4TUXY6
+71,Little Bit Of You,Chase Bryant,78,71,10,751wKDM4y5zurzhSxcUxqP
+72,Acquainted,The Weeknd,77,60,16,7uJH0YdSZL6psjxI6Xy08b
+73,Pt. 2,Kanye West,54,54,2,1Wsbr1d2BouNGk2q92mIj7
+74,Try Everything,Shakira,75,63,6,1N3dZ7TTWO6VcD4Y3hHYLZ
+75,Light It Up,Major Lazer Featuring Nyla & Fuse ODG,86,75,5,0TQ1FvC8TJ09iibSfwRP81
+76,Never Be Like You,Flume Featuring Kai,98,76,2,5WI2ltQIdwgzf1SNE76JyR
+77,Body,Dreezy Featuring Jeremih,88,77,4,20s34XSPIiYMGSFDRSs24t
+78,Ride,twenty one pilots,87,78,5,2Z8WuEywRWYTKe1NybPQEW
+79,Might Be,DJ Luke Nasty,83,78,9,7KLB6Jptw9wyQXkSLiO8qh
+80,Nobody To Blame,Chris Stapleton,68,68,15,4WRRCuJYRq7gUKiupxVH9W
+81,Saved,Ty Dolla $ign Featuring E-40,91,81,8,5UPNBWFU2TEf9kauIITfBs
+82,Uber Everywhere,MadeinTYO,-1,82,2,7zBPzAjKAqQpcv8F8GCq5s
+83,Kiss It Better,Rihanna,80,80,2,7bmqcI1HQwx1PWwYyZO0lg
+84,Head Over Boots,Jon Pardi,89,84,7,4ly1QBXEwYoDmje9rmEgC4
+85,Law,Yo Gotti Featuring E-40,-1,85,1,7mhk9WyqZZzvTTCQKfh2iV
+86,Waves,Kanye West,71,71,2,3nAq2hCr1oWsIU54tS98pL
+87,Moolah,Young Greatness,-1,87,2,746PsZ5jTdqIJ6LgJAHcEZ
+88,Sugar,Robin Schulz Featuring Francesco Yates,82,44,15,5tf1VVWniHgryyumXyJM7w
+89,Jimmy Choo,Fetty Wap,85,65,10,7s49Um7G06hq2rulrHPsIy
+90,Ultralight Beam,Kanye West,67,67,2,1eQBEelI2NCy7AUTerX0KS
+91,Faded,Alan Walker,-1,91,1,7gHs73wELdeycvS48JfIos
+92,Ain't Your Mama,Jennifer Lopez,-1,92,1,2hgzdQdnfWwtdpZbhZlV72
+93,Lights Come On,Jason Aldean,43,43,2,4llYMkhHa1w7UAdDFRQcEZ
+94,If It Ain't Love,Jason Derulo,-1,94,1,5YHR8wBR5jXfGtP766NiAT
+95,Noise,Kenny Chesney,93,72,3,0XN2BcoaKE4Z2hnq1ZeDY1
+96,Victorious,Panic! At The Disco,96,89,4,6od5hFv9IT5JHc7NEF9HRv
+97,Record Year,Eric Church,100,97,2,5fSPbm5lcwtqwXkeQQswW8
+98,Come And See Me,PARTYNEXTDOOR Featuring Drake,97,97,2,1wZqJM5FGDEl3FjHDxDyQd
+99,Fast Car,Jonas Blue Featuring Dakota,-1,98,4,2mCF8L0brIs88eH6Kf2h9p
+100,New Level,A$AP Ferg Featuring Future,-1,97,2,11BIoKDpTJHX5mZt6p566h

@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak,spotify_id
+1,Work,Rihanna Featuring Drake,4,1,4,32lmL4vQAAotg6MrJnhlQZ
+2,Love Yourself,Justin Bieber,1,1,14,50kpGaPAhYJ3sGmk6vplg0
+3,Stressed Out,twenty one pilots,2,2,22,3CRDbSIZ4r5MsZ0YwxuEkn
+4,Sorry,Justin Bieber,3,1,17,09CtPGIpYB4BrO8qb1RGsF
+5,My House,Flo Rida,5,5,15,6Knv6wdA0luoMUuuoYi2i1
+6,Pillowtalk,Zayn,7,1,3,0PDUDa38GO8lMxLCRc4lL1
+7,Hello,Adele,6,1,17,4sPmO7WMQUAf45kwMOtONw
+8,"Me, Myself & I",G-Eazy x Bebe Rexha,8,8,16,40YcuQysJ0KlGQTeGUosTC
+9,Roses,The Chainsmokers Featuring Rozes,9,6,18,3vv9phIu6Y1vX3jcqaGz5Z
+10,Cake By The Ocean,DNCE,11,10,18,76hfruVvmfQbw0eYn1nmeC
+11,Hands To Myself,Selena Gomez,12,7,11,1LoriJC05IrHIDwj3q0KC1
+12,One Call Away,Charlie Puth,15,12,12,7soJgKhQTO8hLP2JPRkL5O
+13,Stitches,Shawn Mendes,10,4,39,5jsw9uXEGuKyJzs0boZ1bT
+14,When We Were Young,Adele,20,14,13,7IWkJwX9C0J7tHurTD7ViL
+15,In The Night,The Weeknd,14,12,15,25KybV9BOUlvcnv7nN3Pyo
+16,Don't,Bryson Tiller,17,13,21,3pXF1nA74528Edde4of9CC
+17,Same Old Love,Selena Gomez,18,5,23,1BZG99C7Co1r6QUC3zaS59
+18,Down In The DM,Yo Gotti Featuring Nicki Minaj,21,18,12,1LxKKYsJNPeBdOwdudsJzv
+19,Hotline Bling,Drake,16,2,29,0wwPcA6wtMf6HUMpIRdeP7
+20,7 Years,Lukas Graham,35,20,5,5kqIPrATaCc2LqxVWzQGbk
+21,Here,Alessia Cara,19,5,29,1wYZZtamWTQAoj8B812uKQ
+22,Uptown Funk!,Mark Ronson Featuring Bruno Mars,-1,1,56,32OlwWuMpZ6b0aN2RZOeMS
+23,Jumpman,Drake & Future,22,12,22,27GmP9AWRs744SzKcpJsTZ
+24,I Took A Pill In Ibiza,Mike Posner,33,24,5,1MtUq6Wp1eQ8PC6BbPCj8P
+25,What Do You Mean?,Justin Bieber,23,1,25,4B0JvthVoAAuygILe3n4Bs
+26,Hide Away,Daya,24,24,22,0uyZ5ckiIUbFZd3P6RWmrj
+27,The Hills,The Weeknd,25,1,39,7fBv7CLKzipRk6EC6TWHOB
+28,Adventure Of A Lifetime,Coldplay,13,13,15,69uxyAqqPIsUyTO8txoP2M
+29,Like I'm Gonna Lose You,Meghan Trainor Featuring John Legend,27,8,33,2YlZnw2ikdb837oKMKjBkW
+30,Say It,Tory Lanez,29,23,18,2Gyc6e2cLxA5hoX1NOvYnU
+31,Summer Sixteen,Drake ,26,6,3,17Q87zeXgsAi9iQQbMu9v0
+32,Can't Feel My Face,The Weeknd,42,1,37,22VdIZQfgXJea34mQxlt81
+33,Ex's & Oh's,Elle King,36,10,33,70eDxAyAraNTiD6lx2ZEnH
+34,679,Fetty Wap Featuring Remy Boyz,31,4,34,5NQbUaeTEOGdD6hHcre0dZ
+35,Die A Happy Man,Thomas Rhett,30,21,22,5kNe7PE09d6Kvw5pAsx23n
+36,Antidote,Travis Scott,32,16,24,1wHZx0LgzFHyeIZkUydNXq
+37,I Know What You Did Last Summer, Shawn Mendes & Camila Cabello,28,20,14,2GyA33q5rti5IxkMQemRDH
+38,Let It Go,James Bay,75,38,9,13HVjjWUZFaWilh2QUJKsP
+39,White Iverson,Post Malone,34,14,24,6eT7xZZlB2mwyzJ2sUKG6w
+40,2 Phones,Kevin Gates,44,40,7,0wdKiSBUT7aZkXUIdJWcwC
+41,Stand By You,Rachel Platten,37,37,14,3kSXn1osC89W8JcPLozTzs
+42,Heartbeat,Carrie Underwood,55,42,7,05BgC2247XGi8ySwBzOO0o
+43,Exchange,Bryson Tiller,39,39,17,43PuMrRfbyyuz4QpZ3oAwN
+44,See You Again,Wiz Khalifa Featuring Charlie Puth,45,1,50,2JzZzZUQj3Qff7wapcbKjc
+45,Oui,Jeremih,48,45,7,0PJIbOdMs3bd5AT8liULMQ
+46,Wildest Dreams,Taylor Swift,38,5,26,59HjlYCeBsxdI0fcm3zglw
+47,Break Up In A Small Town,Sam Hunt,40,29,20,7aftSOGSOpSoIlVAQVBb71
+48,On My Mind,Ellie Goulding,41,13,22,4nS1sut0R2mgmFitKIShVe
+49,Lean On,Major Lazer & DJ Snake Featuring MO,46,4,46,5wldXGLEOoRXxMWJ8rIUWE
+50,Back To Sleep,Chris Brown,50,48,10,6dlpABcXrQKRU9G00i6Zba
+51,Best Friend, Young Thug,53,45,13,33JcUj9qQDayKswunZP9ar
+52,Home Alone Tonight,Luke Bryan Featuring Karen Fairchild,43,38,13,0RE8WWlaCQM6M4XHUK3u7b
+53,Out Of The Woods,Taylor Swift,51,18,9,5OndtwLGA9O6XHFcGm2H7r
+54,Make Me Like You,Gwen Stefani,-1,54,1,2WIxwn8LZRI7knO1VbwdaE
+55,You Should Be Here,Cole Swindell,54,54,10,63thx7OANplv4I4BQsanHk
+56,Sugar,Robin Schulz Featuring Francesco Yates,57,54,7,5tf1VVWniHgryyumXyJM7w
+57,Backroad Song,Granger Smith,49,49,11,6naYpFIKihKbGg6lGxpveI
+58,Get Ugly,Jason Derulo,56,52,9,1dl3vuXJS9anUXE7XnNP75
+59,Low Life,Future Featuring The Weeknd,52,52,2,7EiZI6JVHllARrX9PUvAdX
+60,Dibs,Kelsea Ballerini,58,58,16,6FWrlXo99QRmPtOeUSWDjv
+61,Drunk On Your Love,Brett Eldredge,59,59,6,1jNNHFZmRGXZFHlil5uhei
+62,Something In The Way You Move,Ellie Goulding,66,62,4,3ZCDG0nujwGfxrEmZlZoEt
+63,My Church,Maren Morris,65,63,4,1LM5zQv5pBKPyO7rm7Uz6U
+64,Beautiful Drug,Zac Brown Band,60,60,13,0vcfOQOvTCv8ckiRs8Xc1Z
+65,Jimmy Choo,Fetty Wap,69,65,2,7s49Um7G06hq2rulrHPsIy
+66,Break On Me.,Keith Urban,61,61,8,3W5GXbS3ugsYjx1X0xBNbL
+67,Really Really,Kevin Gates,62,59,9,10I3CmmwT0BkOVhduDy53o
+68,Hollow,Tori Kelly,93,68,10,160hN2OsDXnmgExwtG7cvD
+69,Confession,Florida Georgia Line,68,68,8,6IFPfV8PNSYOmufzQ95hmm
+70,Middle,DJ Snake Featuring Bipolar Sunshine,73,70,5,0g5EKLgdKvNlln7TNqBByK
+71,We Went,Randy Houser,72,71,9,7JnorPtXApoUw2AuJUGLY1
+72,Perfect,One Direction,63,10,18,3NLnwwAQbbFKcEcV8hDItk
+73,Nobody To Blame,Chris Stapleton,76,73,7,4WRRCuJYRq7gUKiupxVH9W
+74,Needed Me,Rihanna,84,74,3,1Tt4sE4pXi57mTD1GCzsqm
+75,Confident,Demi Lovato,70,21,20,0Mn3amMRMoabaoTf1Publ4
+76,Stay A Little Longer,Brothers Osborne,71,46,20,6rqxivjFHp8K0yMiefG56g
+77,All I Ask,Adele,-1,77,1,1wMALZpuqAy7amQsFBWQ8m
+78,I Like The Sound Of That,Rascal Flatts,79,78,4,5S5rw0WLVCAux5B5bWCehK
+79,Snapback,Old Dominion,82,79,4,7I5fYc4qKJddht8Ozhqqdx
+80,Youth,Troye Sivan,88,80,3,1cOyWWUr3oXJIxY0AjJEx9
+81,Cheap Thrills,Sia Featuring Sean Paul,-1,81,1,3S4px9f4lceWdKf0gWciFu
+82,Acquainted,The Weeknd,95,60,8,7uJH0YdSZL6psjxI6Xy08b
+83,Never Forget You,Zara Larsson & MNEK,-1,83,1,6hmhG1b4LEyNuashVvuIAo
+84,Sorry Not Sorry,Bryson Tiller,80,67,10,16bHRxM89ue0TiCKARYbRp
+85,Might Be,DJ Luke Nasty,-1,85,1,7KLB6Jptw9wyQXkSLiO8qh
+86,Think Of You,Chris Young Duet With Cassadee Pope,-1,86,1,6W9W8dSswA8KNegvl3W97V
+87,Somewhere On A Beach,Dierks Bentley,100,87,3,5CG9Ps5ynNjpKJHmwc95pa
+88,Humble And Kind,Tim McGraw,-1,88,2,3Rkk851fZjIsglV2jbBPDd
+89,Little Bit Of You,Chase Bryant,99,89,2,751wKDM4y5zurzhSxcUxqP
+90,Good To Be Alive (Hallelujah),Andy Grammer,87,62,10,3gHc5XTAywdFQUsHS6DD7G
+91,Watch Out,2 Chainz,77,64,8,22DKsoYFV5npPXmnPpXL7i
+92,Promise,Kid Ink Featuring Fetty Wap,-1,92,1,5IZc3KIVFhjzJ0L2kiXzUl
+93,Bang My Head,David Guetta Featuring Sia & Fetty Wap,81,76,6,53Y0kdCa1CZ9gRqEuknfwy
+94,Irresistible,Fall Out Boy,86,48,14,3Y3gChJoEUTqrtuqJCIPQk
+95,$ave Dat Money,Lil Dicky Featuring Fetty Wap & Rich Homie Quan,89,71,17,6AoYWCzsDls6c61Zp5qTuU
+96,History,One Direction,96,65,4,0HMjXBAZmSYOTTi33WpMso
+97,Do It Like Me,DLOW,91,45,15,0z9hbAY5d0RhmvZr3DWMPK
+98,That Don't Sound Like You,Lee Brice,-1,98,1,2l1fWY1albInvAG9t8WP2p
+99,I Love This Life,LOCASH,90,56,17,21jkhW2773dELgTMRJcMfI
+100,Dessert,Dawin,98,68,11,0mxoXsr14ILAYcXZBMJcOs

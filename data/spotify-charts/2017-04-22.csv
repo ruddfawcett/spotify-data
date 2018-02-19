@@ -1,0 +1,101 @@
+pos,title,artist,last_pos,peak_pos,streak,spotify_id
+1,Shape Of You,Ed Sheeran,1,1,13,7qiZfU4dY1lWllzX7mPBI3
+2,Humble.,Kendrick Lamar,-1,2,1,7KXjTSCq5nL1LoYtL7XAwS
+3,That's What I Like,Bruno Mars,2,2,12,0KKkJNfGyhkQ5aFogxQAPU
+4,iSpy,KYLE Featuring Lil Yachty,5,4,15,2EEeOnHehOozLq4aS0n6SL
+5,Something Just Like This,The Chainsmokers & Coldplay,3,3,7,1dNIEtp7AY3oDAKCGg2XkH
+6,Body Like A Back Road,Sam Hunt,12,6,10,7mldq42yDuxiUNn08nvzHO
+7,I Feel It Coming,The Weeknd Featuring Daft Punk,4,4,20,3dhjNA0jGA8vHBQ1VdD6vV
+8,Tunnel Vision,Kodak Black,8,6,7,4Q3N4Ct4zCuIHuZ65E3BD4
+9,Paris,The Chainsmokers,9,6,12,15vzANxN8G9wWfwAJLLMCg
+10,Rockabye,Clean Bandit Featuring Sean Paul & Anne-Marie,11,9,18,5knuzwU65gJK7IF5yJsuaW
+11,Mask Off,Future,18,11,7,0VgkVdmE4gld66l8iyGjgx
+12,Bad And Boujee,Migos Featuring Lil Uzi Vert,6,1,21,4Km5HrUvYTaSUfiSGPJeQR
+13,It Ain't Me,Kygo x Selena Gomez,15,12,8,12GEpg2XOPyqk03JZEZnJs
+14,Stay,Zedd & Alessia Cara,17,14,6,6uBhi9gBXWjanegOb2Phh0
+15,I Don't Wanna Live Forever (Fifty Shades Darker),Zayn / Taylor Swift,7,2,17,2y5aJvzXhHPA94U5GFAcXe
+16,XO TOUR Llif3,Lil Uzi Vert,49,16,2,7GX5flRQZVHRAGd6B4TmDO
+17,Say You Won't Let Go,James Arthur,19,17,24,5uCax9HTNlzGybIStD3vDh
+18,Love On The Brain,Rihanna,14,5,25,2aksifNn5ph8igDOkPBA02
+19,Chained To The Rhythm,Katy Perry Featuring Skip Marley,13,4,8,5tP2TrJDgXXxAHZwcOknOI
+20,Bounce Back,Big Sean,16,6,22,0SGkqnVQo9KPytSri1H6cF
+21,Closer,The Chainsmokers Featuring Halsey,20,1,36,7BKLCZ1jbUBVqRi2FVlTVw
+22,Issues,Julia Michaels,23,22,11,7vu0JkJh0ldukEYbTVcqd0
+23,Passionfruit,Drake,10,8,3,5mCPDVBb16L4XQwDdbRUpz
+24,Location,Khalid,24,24,13,152lZdxL1OR0ZMW6KquMif
+25,Congratulations,Post Malone Featuring Quavo,28,25,15,3a1lNhkSLSkpJE4MSHpDu9
+26,T-Shirt,Migos,25,19,12,7KOlJ92bu51cltsD9KU5I7
+27,24K Magic,Bruno Mars,29,4,26,6b8Be6ljOzmkOmFslEb23P
+28,Cold,Maroon 5 Featuring Future,30,16,8,50QWA5PR501dIe2KkJkHRR
+29,Swang,Rae Sremmurd,34,29,16,6mapJIPnQ23RTAevUoE0DL
+30,Scars To Your Beautiful,Alessia Cara,32,8,32,0prNGof3XqfTvNDxHonvdK
+31,Fake Love,Drake,27,8,24,343YBumqHu19cGoGARUTsd
+32,Can't Stop The Feeling!,Justin Timberlake,31,1,48,1WkMMavIMc4JZ8cfMmxHkI
+33,Mercy,Shawn Mendes,26,15,29,0AS63m1wHv9n4VVRizK6Hc
+34,Look At Me!,XXXTentacion,42,34,9,7floNISpH8VF4z4459Qo18
+35,Down,Marian Hill,33,21,12,5eCkuGPZNl4mISFNPgr3Dd
+36,Portland,Drake Featuring Quavo & Travis Scott,21,9,3,2bjwRfXMk4uRgOD9IBYl9h
+37,Starboy,The Weeknd Featuring Daft Punk,35,1,29,7MXVkk9YMctZqd1Srtv4MB
+38,The Fighter,Keith Urban Featuring Carrie Underwood,74,38,9,5OUSPcqhYTOzpbXzoEvKim
+39,Rolex,Ayo & Teo,36,34,8,0pSBuHjILhNEo55xK1zrRt
+40,Slide,Calvin Harris Featuring Frank Ocean & Migos,45,34,6,6gpcs5eMhJwax4mIfKDYQk
+41,Million Reasons,Lady Gaga,37,4,20,7dZ1Odmx9jWIweQSatnRqo
+42,Dirt On My Boots,Jon Pardi,38,37,18,7f08qp3HROTkfrtNpiYGGo
+43,Goosebumps,Travis Scott,-1,43,21,6gBFPUFcJLzWGx4lenP6h2
+44,In Case You Didn't Know,Brett Young,51,44,9,10M2Ex445zw585Ducldzkw
+45,Don't Wanna Know,Maroon 5 Featuring Kendrick Lamar,41,6,26,3PGdPUMdUg7a3Tgr5gkfKK
+46,Both,Gucci Mane Featuring Drake,50,41,16,5tFep7dXGd7vEJ668wTPux
+47,Water Under The Bridge,Adele,46,26,22,4vb4mFvYsr2h6enhjJsq9Y
+48,Believer,Imagine Dragons,52,41,9,1NtIMM4N0cFa1dNzN15chl
+49,Despacito,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,44,44,12,6rPO02ozF3bM7NnOV4h6s2
+50,Bad Things,Machine Gun Kelly x Camila Cabello,39,4,23,1KzGj3xvi9IiY05kBlkm2G
+51,Party,Chris Brown Featuring Usher & Gucci Mane,47,40,16,05Z7jet4VDNVgNQWcYHnrk
+52,Swalla,Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign,65,52,3,6kex4EBAj0WHXDKZMEJaaF
+53,Craving You,Thomas Rhett Featuring Maren Morris,-1,53,1,2d48mamATjby7wgPjdrSOQ
+54,Any Ol' Barstool,Jason Aldean,62,54,11,4T5Z4mbTe7kuGqgLpaRtTh
+55,Green Light,Lorde,59,19,6,3I4QOvltiKcMu3xmnQjEct
+56,Redbone,Childish Gambino,54,48,18,3kxfsdsCpFgN412fpnW85Y
+57,Hurricane,Luke Combs,55,55,8,6xHI9KjUjYT0FPtGO8Mxa1
+58,Fast,Luke Bryan,60,58,11,2gYiCTytrSRtuaHP1Nac6u
+59,Everybody,Logic,-1,59,1,7cGFbx7MP0H23iHZTZpqMM
+60,You Look Good,Lady Antebellum,-1,60,1,1dFLowBW25EaL2OC7eKEa2
+61,Heavy,Linkin Park Featuring Kiiara,57,52,7,104buTcnP2AsxqB7U1FIZ4
+62,Gyalchester,Drake,43,29,3,6UjfByV1lDLW0SOVQA4NAi
+63,How Far I'll Go,Auli'i Cravalho,58,41,17,6mb6lVLNrcUgLnEN8QnDJd
+64,Shining,DJ Khaled Featuring Beyonce & JAY Z,64,57,8,7Fa5UNizycSms5jP3SQD3F
+65,Hometown Girl,Josh Turner,72,65,6,5C6uh95eAL0RBTSGXKQwvk
+66,Black,Dierks Bentley,87,66,9,2lFtnEmkIPm2ClN55e2chV
+67,Road Less Traveled,Lauren Alaina,69,67,11,4nxgA1nvXvTkmsBY0vJV57
+68,Free Smoke,Drake ,40,18,3,05KOgYg8PGeJyyWBPi5ja8
+69,Castle On The Hill,Ed Sheeran,63,6,13,6PCUP3dWmTjcTtXY02oFdT
+70,Speak To A Girl,Tim McGraw & Faith Hill,61,61,2,421ebjYqaIXEG2KloTbXlH
+71,"God, Your Mama, And Me",Florida Georgia Line Featuring Backstreet Boys,-1,71,2,4VFE6ZNqa8jHAmbYICoAFg
+72,Play That Song,Train,67,41,19,77hjM9bMmgfTGJXv14UFmi
+73,Deja Vu,J. Cole,70,7,17,6I6NX6tjGsxFAsIfGzY9lJ
+74,Moves,Big Sean,71,38,15,0Fv5N0cHBsl4bzCbollCAS
+75,Tin Man,Miranda Lambert,-1,75,1,4ckQIgBy1gVeevf7UAereE
+76,Yeah Boy,Kelsea Ballerini,88,76,7,2WaOQWSv0D1tZNxyLvnGAI
+77,Selfish,Future Featuring Rihanna,73,37,6,6yHkPtl6UQ7RjtJLBPzbJw
+78,Blem,Drake,48,38,3,2XlHu0HcujBCkWMdIAvrqt
+79,Losin Control,Russ,77,77,6,4cxMGhkinTocPSVVKWIw0d
+80,The Weekend, Brantley Gilbert,81,69,14,48tAdjG4ng2JfECa7OQujk
+81,Subeme La Radio,"Enrique Iglesias Featuring Descemer Bueno, Zion & Lennox Or Sean Paul",-1,81,1,7nKBxz47S9SD79N086fuhn
+82,Call On Me,Starley,80,70,14,2L6orAlH8tBhiFTumIfMyF
+83,Teenage Fever,Drake,53,35,3,6n3HGiq4v35D6eFOSwqYuo
+84,No Frauds,"Nicki Minaj, Drake & Lil Wayne",75,14,4,7KcGEssn7BnJdTgildK5y0
+85,The Heart Part 4,Kendrick Lamar,22,22,2,1zayuwd1YLZsYDArkruHdL
+86,Think A Little Less,Michael Ray,78,54,15,4JjIIBNoho0V2gZjH4nEzR
+87,Draco,Future,90,46,7,4GkkxswcdEt1tkSyiRzgnC
+88,First Day Out,Tee Grizzley,-1,88,1,3muBQDekYAg7jm6hDu6R0Z
+89,Sacrifices,Drake Featuring 2 Chainz & Young Thug,56,36,3,0xl1w2q4VLojeXp4JfazPL
+90,Scared To Be Lonely,Martin Garrix & Dua Lipa,92,88,5,3ebXMykcMXOcLeJ9xZ17XH
+91,The One,The Chainsmokers,-1,91,1,1jYiIOC5d6soxkJP81fxq2
+92,How Far I'll Go,Alessia Cara,91,56,18,5EbX5xL3O2xT8FxCpYzgUO
+93,Conscience,Kodak Black Featuring Future,-1,93,1,16dXg2YuFOxwDC3cTf5jde
+94,Drowning,A Boogie Wit da Hoodie Featuring Kodak Black,-1,94,1,1f5cbQtDrykjarZVrShaDI
+95,Good Drank,2 Chainz x Gucci Mane x Quavo,95,92,4,39pS70eeDvyCAF3t8NAlVV
+96,Heatstroke,"Calvin Harris Featuring Young Thug, Pharrell Williams & Ariana Grande",-1,96,1,1N90cV79gbBgO0bOs74Y0t
+97,Prblms,6LACK,96,95,3,4AtZRwSR8BOTTQg5ihSggt
+98,How Not To,Dan + Shay,-1,98,1,4n0xztUAbHPUV8G3NQvF30
+99,You're Welcome,Dwayne Johnson,100,65,11,6U4VqEHy4n5VeiH4pQPL24
+100,Human,Rag'n'Bone Man,-1,100,1,58zsLZPvfflaiIbNWoA22O
